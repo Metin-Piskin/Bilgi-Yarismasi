@@ -1,0 +1,10 @@
+C:\Users\Metin\source\repos\Metin Form\Bilgi_Yarışması\Bilgi_Yarışması\bin\Debug\Bilgi_Yarışması.exe.config
+C:\Users\Metin\source\repos\Metin Form\Bilgi_Yarışması\Bilgi_Yarışması\bin\Debug\Bilgi_Yarışması.exe
+C:\Users\Metin\source\repos\Metin Form\Bilgi_Yarışması\Bilgi_Yarışması\bin\Debug\Bilgi_Yarışması.pdb
+C:\Users\Metin\source\repos\Metin Form\Bilgi_Yarışması\Bilgi_Yarışması\obj\Debug\Bilgi_Yarışması.csprojAssemblyReference.cache
+C:\Users\Metin\source\repos\Metin Form\Bilgi_Yarışması\Bilgi_Yarışması\obj\Debug\Bilgi_Yarışması.Properties.Resources.resources
+C:\Users\Metin\source\repos\Metin Form\Bilgi_Yarışması\Bilgi_Yarışması\obj\Debug\Bilgi_Yarışması.csproj.GenerateResource.cache
+C:\Users\Metin\source\repos\Metin Form\Bilgi_Yarışması\Bilgi_Yarışması\obj\Debug\Bilgi_Yarışması.csproj.CoreCompileInputs.cache
+C:\Users\Metin\source\repos\Metin Form\Bilgi_Yarışması\Bilgi_Yarışması\obj\Debug\Bilgi_Yarışması.exe
+C:\Users\Metin\source\repos\Metin Form\Bilgi_Yarışması\Bilgi_Yarışması\obj\Debug\Bilgi_Yarışması.pdb
+C:\Users\Metin\source\repos\Metin Form\Bilgi_Yarışması\Bilgi_Yarışması\obj\Debug\Bilgi_Yarışması.Bilgi_Yarışması.resources
